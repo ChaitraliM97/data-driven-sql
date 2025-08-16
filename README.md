@@ -1,2 +1,2 @@
 # data-driven-sql
-A curated collection of advanced SQL scripts for data analysts and BI professionals. Explore databases, calculate metrics, analyze trends, segment data, and prepare reports. Each script demonstrates best practices, enabling fast, actionable insights and enhancing SQL mastery.
+A powerful collection of advanced SQL scripts for data analysts and BI professionals, designed to explore, segment, and analyze relational data effortlessly. From database exploration and key metrics to time-based trends and cumulative analytics, each script demonstrates best practices while enabling fast, actionable insights. Perfect for building dashboards, reports, or enhancing your SQL mastery.
